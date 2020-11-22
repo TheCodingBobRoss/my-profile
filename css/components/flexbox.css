@@ -1,0 +1,23 @@
+.flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 10px 40px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+#banner p{
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+
+#banner{
+    background-image: url("../../images/hexabg.jpg");
+    background-size: cover;
+    padding: 40px;
+}

@@ -1,0 +1,23 @@
+@media (max-width: 2160px) {
+  .container {
+  	/* background-color: red; */
+    width: 940px;
+  }
+}
+@media (max-width: 940px) {
+  .container {
+  	/* background-color: green; */
+    width: 700px;
+  }
+}
+@media (max-width: 740px) {
+  .container {
+  	/* background-color: blue; */
+    width: 460px; 
+  }
+}
+
+.container{
+	margin: 0px auto;
+	padding: 10px
+}

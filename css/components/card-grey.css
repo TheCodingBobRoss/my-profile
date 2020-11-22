@@ -1,0 +1,8 @@
+.card-grey{
+	text-align: center;
+	margin: 20px;
+	padding: 20px;
+	background-color: #f4f4f2;
+	border-radius: 5px;
+	box-shadow: 10px 10px 30px rgba(0,0,0,0.2)
+}
